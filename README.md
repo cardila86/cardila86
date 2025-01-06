@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋, I'm Carlos Ardila.
+Master's student in physics - UIS 💚
 
 <!--
 **cardila86/cardila86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
